@@ -1,2 +1,5 @@
 # ceva24.co.uk
-Assets for my website's WordPress theme
+
+## Description
+
+WordPress assets for the child theme used on [www.ceva24.co.uk](http://www.ceva24.co.uk).
