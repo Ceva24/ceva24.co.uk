@@ -32,3 +32,7 @@ body .site {
 .contact-table td img { 
     vertical-align: top;
 }
+
+.code {
+    font-family: courier new;
+}
