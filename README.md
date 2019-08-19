@@ -2,4 +2,4 @@
 
 ## Description
 
-WordPress assets for the child theme used on [www.ceva24.co.uk](http://www.ceva24.co.uk).
+WordPress assets for the child theme used on [https://www.ceva24.co.uk](https://www.ceva24.co.uk).
